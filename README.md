@@ -8,12 +8,14 @@ instructions.sh - lists the commands in order. You should be able to run
     
     ./instructions.sh
 
+There are other scripts in the install directory that are related to a 3scale enablement lab that are not referenced in instructions.sh (directly or indirectly).
+
+
 Note: 
 
-Make sure $EXTERNAL_IP and $RH_USER_NAME are set
+Make sure $EXTERNAL_IP and $RH_USER_NAME are set. You may also need to update the pool id to the appropriate value for the subs_manager_register.sh script.in
 
-Look at the instructions.sh script and uncomment the appropriate commands
-
+Review the instructions.sh script and uncomment the commands for installing 3scale
 
 If you want to use ansible playbooks to install OCP [use this](https://github.com/gbengataylor/ocp-ansible-playbooks)
 
