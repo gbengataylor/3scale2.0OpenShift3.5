@@ -8,7 +8,7 @@ instructions.sh - lists the commands in order. You should be able to run
     
     ./instructions.sh
 
-There are other scripts in the install directory that are related to a 3scale enablement lab that are not referenced in instructions.sh (directly or indirectly).
+There are additional scripts in the install and util directories that are related to a 3scale enablement lab that are not referenced in instructions.sh (directly or indirectly) and therefore are not part of the instructions in the referenced blog post above
 
 
 Note: 
