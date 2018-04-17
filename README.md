@@ -1,6 +1,6 @@
 # installing 3scale AMP 2.0 on OpenShift 3.5
 
-These are the instructions in [3scale how to blog] (https://developers.redhat.com/blog/2017/05/22/how-to-setup-a-3scale-amp-on-premise-all-in-one-install/) in bash
+These are the instructions in a [Red Hat Developers 3scale blog post](https://developers.redhat.com/blog/2017/05/22/how-to-setup-a-3scale-amp-on-premise-all-in-one-install/) in bash form
 
 It installs OpenShift 3.5 and dependencies on a single node cluster, and deploys 3scale on OpenShift
 
